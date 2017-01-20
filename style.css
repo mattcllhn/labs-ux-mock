@@ -1,0 +1,72 @@
+body {
+  background-color: white; }
+
+img{
+  width:100%;
+  height:auto;
+}
+
+.logo-wrapper{
+  height:9rem;
+  width:20rem;
+  overflow:hidden;
+  /*margin-left: 4rem;*/
+}
+.jumbotron{
+  /*padding:10px 5px;*/
+  padding: 48px 4rem 0 4rem;
+  /*padding-bottom: 0;*/
+}
+.pull-right{
+  margin-right:4rem;
+}
+.lessons{
+  width:100%;
+}
+.buttonContainer{
+  margin:0 auto;
+}
+
+.lang {
+  height:10rem;
+  width:20rem;
+  background-color:#A03133;
+  color:white;
+  border-radius: .25rem;
+  font-weight:bolder;
+  /*margin:.0000025rem;*/
+}
+.copyright{
+  position:absolute;
+  bottom:1rem;
+  right:1rem;
+}
+.btn-small{
+  height: 1.5rem;
+  width: 32%;
+  padding: 0px;
+  font-size: 11px;
+  margin-bottom: 1rem;
+  background-color: rgba(160, 49, 51, 0.5);
+
+}
+.active{
+  background-color: #A03133;
+}
+.lsBox{
+  display: inline;
+  border: 1px solid black;
+  margin-right: 0;
+  height: 7px;
+}
+
+#intro{
+  margin:17rem;
+
+}
+
+#ch-title{
+
+
+
+}
